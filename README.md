@@ -1,5 +1,9 @@
-## Hi there 👋
+## Hey wassup guys!👋
 
+I'm Bageesh. Currently in college. I'm a tech enthusiast with a passion for all things digital. I'm also into web development (especially front-end stuffs) and presently learning the ropes of designing lovely websites.
+
+- 🌱 I’m currently learning: JavaScript, CSS, C++, Python
+- 😄 Pronouns: He/Him
 <!--
 **Enigma1745/Enigma1745** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
