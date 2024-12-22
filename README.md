@@ -1,6 +1,6 @@
 ## Hey wassup guys!👋
 
-I'm Bageesh. Currently in college. I'm a tech enthusiast with a passion for all things digital. I'm also into web development (especially front-end stuffs) and presently learning the ropes of designing lovely websites.
+I'm Bageesh. Currently in college. I'm a tech enthusiast with a keen interest in the digital realm. I'm also into web development (especially front-end stuffs) and presently learning the ropes of designing lovely websites.
 
 - 🌱 I’m currently learning: JavaScript, CSS, C++, Python
 - 😄 Pronouns: He/Him
